@@ -1,3 +1,6 @@
+// This is a Summary of 1,2,3,4,5
+
+
 // Primitive data types :- These are call by value
 // Types of Primitive data types :-  1. String
 //                                   2. Number
