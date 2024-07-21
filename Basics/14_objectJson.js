@@ -2,7 +2,7 @@ const course = {
   courseName : "JAVASCRIPT",
   courseInstructor : "Reeturaj",
   CoursePrice : 999,
-}
+} 
 
 //firste methood of accessing the value 
 console.log(course.CoursePrice)
