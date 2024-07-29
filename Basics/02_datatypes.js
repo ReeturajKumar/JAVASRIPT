@@ -24,6 +24,6 @@ console.log(name,isLogin,state,bigint)
 
 
 //OBJECT DATA TYPE 
-//here we are basically finding the dta type of any value
+//here we are basically finding the data type of any value
 console.log(typeof null);        //object
 console.log(typeof undefined);   //undefind

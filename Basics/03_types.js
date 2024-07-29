@@ -20,7 +20,7 @@ console.log(typeof card3);  // this print the string
 
 
 let card4 = Number(card3);
-console.log(card4) // this print NaN measn not a number bit its number
+console.log(card4) // this print NaN means not a number but its number
 
 
 
