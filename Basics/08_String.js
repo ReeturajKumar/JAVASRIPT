@@ -2,8 +2,7 @@ const name = "Rutu";
 const name2 = "Kumar"
 
 
-console.log(name + name2); 
-// this process is called as concat process
+console.log(name + name2);  // this process is called as concat process
 
 //there are two methoods of writing sentence in string
 
@@ -13,7 +12,7 @@ console.log("My name is " + name + name2 + " and i am learning javascript");
 //2. methood
 console.log(`Hello my name is ${name + name2} and i am learning javascript`);
 
-// In a modern javascript format and according to development point of view first methood is not correct . 1 and 1 both are giving the same output but first one doest have proper structure and 2one have proper structure so choose always 2 methood while writing sence in string
+// In a modern javascript format and according to development point of view first methood is not correct . 1 and 2 both are giving the same output but first one doest have proper structure and 2one have proper structure so choose always 2 methood while writing sence in string
 
 
 
@@ -23,12 +22,12 @@ const game = "Pubg";
 // 1 methood of creating string (here we are creating simple  string)
 
 const game2 = new String("Pubg"); 
-// Second methood of creating string (here we are creating stringf using object)
+// Second methood of creating string (here we are creating string using object)
 
 
 
 console.log(game2); 
-// printing the value with their rtype of data type
+// printing the value with their type of data type
 
 console.log(game2[0]); 
 // finding the the value of char just using index number
@@ -47,7 +46,7 @@ console.log(game2.indexOf("b"))
 
 
 const newString = game2.substring(0,2)
-// here we are printing the charctors using substring and the  )the charector is first and 2 is last buth 2nd char cant be view show its shows on Ui or terminal 0,1 char value
+// here we are printing the charctors using substring and the the charector is first and 2 is last buth 2nd char cant be view show its shows on Ui or terminal 0,1 char value
 console.log(newString);
 
 

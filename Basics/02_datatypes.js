@@ -16,7 +16,7 @@ let isLogin = true;
 let state = null;
 let age = 19;
 let name = "Reeturaj";
-let bigint = 8986435354578723458783243546534
+let bigint = 8986435354578723458783243546534n
 
 console.log(name,isLogin,state,bigint)
 
